@@ -27,10 +27,6 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
-<p>
-  ![Visitors](https://count.getloli.com/get/@NSR010?theme=unicorn)
-
-</p>
 
 ---
 
