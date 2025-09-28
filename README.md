@@ -43,7 +43,7 @@
 - Competitive programming (Codeforces, LeetCode)
 - Python-based game dev & CV tools
 - WebDev (HTML, CSS, JS)
-
+- AI/ML
 ---
 
 ### 🙏 Thank you for visiting my profile!
