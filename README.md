@@ -1,6 +1,11 @@
 <h1 align="center">Hi 👋, I'm Nitin Pandey</h1>
 <h3 align="center"> @MNNIT '28| Competitive programmer | Robotics & AI enthusiast</h3>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=NSR010&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/NSR010?label=Followers&style=flat&logo=github" alt="GitHub Followers" />
+</p>
+
 - 🧠 Currently exploring **Pygame + OpenCV + MediaPipe based projects**
 - 💡 Most recent project: [Integrated Hand-Controlled Slither Game](https://github.com/NSR010/Integrated_hand_control_slither_game)
 - 🚀 Learning competitive programming (C++), Python, and web development
