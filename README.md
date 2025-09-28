@@ -12,6 +12,7 @@
 
 ### 📫 Contact Me:
 - Email: **nsredits01@gmail.com**
+         **nitinpandey0730@gmail.com**
 - GitHub: [@NSR010](https://github.com/NSR010)
 
 ---
